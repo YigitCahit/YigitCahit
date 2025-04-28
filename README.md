@@ -25,5 +25,5 @@ Python, C#, MySQL gibi teknolojilerle projeler geliştiriyor; sürekli olarak ye
 - **Araçlar:** Git, Docker, Visual Studio, Visual Studio Code
 
 ## 📫 İletişim
-- Web Sitesi: [mcyigit.net](https://mctyigit.net)
+- Web Sitesi: [mcyigit.net](https://mcyigit.net)
 - E-Mail: contact@mcyigit.net

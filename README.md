@@ -23,6 +23,7 @@ Python, C#, MySQL gibi teknolojilerle projeler geliştiriyor; sürekli olarak ye
 - **Web Geliştirme:** HTML5, CSS3, JavaScript
 - **Veritabanları:** MySQL, SQLite
 - **Araçlar:** Git, Docker, Visual Studio, Visual Studio Code
+- **Diğer:** Discord SDK, X API
 
 ## 📫 İletişim
 - Web Sitesi: [mcyigit.net](https://mcyigit.net)

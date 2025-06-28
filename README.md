@@ -17,6 +17,7 @@ Python, C#, MySQL gibi teknolojilerle projeler geliştiriyor; sürekli olarak ye
 - Web tabanlı Blog Platformu
 - Gerçek Zamanlı Sohbet Uygulaması
 - Kendi Web Hosting Altyapısı
+- [X API ile Web Uygulaması](https://x.mcyigit.net)
 
 ## ⚙️ Kullandığım Teknolojiler
 - **Programlama Dilleri:** Python, PHP, C#, C, C++

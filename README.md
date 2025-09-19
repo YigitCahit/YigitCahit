@@ -1,31 +1,29 @@
 # Mert Cahit Yiğit
 
 ## Hakkımda
-Bilgisayar Programcılığı öğrencisiyim ve yazılım geliştirme, web tasarımı ve siber güvenlik alanlarında çalışmaktayım.  
-Python, C#, MySQL gibi teknolojilerle projeler geliştiriyor; sürekli olarak yeni teknolojiler öğrenmeye ve kendimi geliştirmeye odaklanıyorum.
+Ben Mert Cahit Yiğit. Sürekli öğreniyor ve geliştiriyorum.
 
-## 🚀 Uzmanlık Alanlarım
+## Uzmanlık Alanlarım
 - Web Uygulamaları Geliştirme
 - Veritabanı Yönetimi (MySQL, SQLite)
-- Temel Ağ ve Siber Güvenlik Sistemleri
+- Gelişmiş Network Sistemleri (Cisco)
 - HTML5, CSS3 ve SEO Uyumlu Web Geliştirme
 - Gerçek Zamanlı Uygulamalar (WebSocket)
-- Grafik Tasarım ve Video Düzenleme
+- Yapay Zeka
 
-## 🛠️ Üzerinde Çalıştığım Projeler
+##  Üzerinde Çalıştığım Projeler
 - **Makine Öğrenmesi** ile Film Öneri Sistemi
-- Web tabanlı Blog Platformu
+- Yapay Zeka Projesi
 - Gerçek Zamanlı Sohbet Uygulaması
-- Kendi Web Hosting Altyapısı
-- [X API ile Web Uygulaması](https://x.mcyigit.net)
 
-## ⚙️ Kullandığım Teknolojiler
-- **Programlama Dilleri:** Python, PHP, C#, C, C++
+## Kullandığım Teknolojiler
+- **Programlama Dilleri:** Python, PHP, C#, C, C++, Assembly
 - **Web Geliştirme:** HTML5, CSS3, JavaScript
 - **Veritabanları:** MySQL, SQLite
-- **Araçlar:** Git, Docker, Visual Studio, Visual Studio Code
-- **Diğer:** Discord SDK, X API
+- **Araçlar:** Git, Visual Studio, Visual Studio Code
 
-## 📫 İletişim
+## İletişim
 - Web Sitesi: [mcyigit.net](https://mcyigit.net)
 - E-Mail: contact@mcyigit.net
+
+> Evren, Tanrı tarafından matematik dilinde yazılmış büyük bir kitaptır.

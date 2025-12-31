@@ -12,4 +12,4 @@ Ben Mert Cahit Yiğit. Sürekli öğreniyor ve geliştiriyorum.
 
 > Evren, Tanrı tarafından matematik dilinde yazılmış büyük bir kitaptır.
 
-[Yapay Zeka Destekli Tehditler ve Savunma Sistemleri](https://mcyigit.net/yazilar/siber-guvenlik-2025.html)
+[Küresel Bellek Krizi 2025: Yapay Zeka, HBM Savaşları ve Tedarik Zinciri Çöküşü](https://mcyigit.net/yazilar/bellek-krizi-2025.html)

@@ -8,7 +8,7 @@ Ben Mert Cahit Yiğit. Sürekli öğreniyor ve geliştiriyorum.
 
 ## İletişim
 - Web Sitesi: [mcyigit.net](https://mcyigit.net)
-- E-Mail: mail@mcyigit.net
+- E-Mail: [hello@mcyigit.net](mailto:hello@mcyigit.net)
 
 > Evren, Tanrı tarafından matematik dilinde yazılmış büyük bir kitaptır.
 

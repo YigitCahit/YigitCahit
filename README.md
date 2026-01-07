@@ -55,12 +55,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=YigitCahit&theme=icegray&locale=tr" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YigitCahit&layout=compact&theme=icegray" height="180" alt="Top Langs" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github.com/YigitCahit/YigitCahit/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---

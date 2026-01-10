@@ -54,7 +54,7 @@
 ### 📊 GitHub İstatistikleri
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YigitCahit&theme=icegray&locale=tr" alt="GitHub Streak" />
+  <img src="https://vercel.mcyigit.net?user=YigitCahit&theme=icegray&locale=tr" alt="GitHub Streak" />
 </div>
 
 ---

@@ -74,5 +74,5 @@
   <a href="https://github.com/YigitCahit">
     <img src="https://komarev.com/ghpvc/?username=YigitCahit&style=flat-square&color=blueviolet" alt="Profile Views" />
   </a>
-  <p><i>Evren, Tanrı tarafından matematik dilinde yazılmış büyük bir kitaptır.</i></p>
+  <p><i><a href="https://mcyigit.net/yazilar/merkeziyetsiz-yapay-zeka-egitimi.html">Halkın OpenAI'sı</a></i></p>
 </div>

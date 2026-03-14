@@ -74,5 +74,5 @@
   <a href="https://github.com/YigitCahit">
     <img src="https://komarev.com/ghpvc/?username=YigitCahit&style=flat-square&color=blueviolet" alt="Profile Views" />
   </a>
-  <p><i><a href="https://mcyigit.net/yazilar/merkeziyetsiz-yapay-zeka-egitimi.html">Halkın OpenAI'sı</a></i></p>
+  <p><i><a href="https://mcyigit.net/yazilar/kuantum-sonrasi-sifreleme.html">Şimdi Hasat Et, Sonra Şifresini Çöz</a></i></p>
 </div>

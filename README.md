@@ -74,5 +74,8 @@
   <a href="https://github.com/YigitCahit">
     <img src="https://komarev.com/ghpvc/?username=YigitCahit&style=flat-square&color=blueviolet" alt="Profile Views" />
   </a>
-  <p><i><a href="https://mcyigit.net/yazilar/kuantum-sonrasi-sifreleme.html">Şimdi Hasat Et, Sonra Şifresini Çöz</a></i></p>
+  <br>
+  <a href="https://ko-fi.com/A0A31PZ7KZ">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-Fi">
+  </a>
 </div>

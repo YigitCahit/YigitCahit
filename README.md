@@ -71,11 +71,11 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/YigitCahit">
-    <img src="https://komarev.com/ghpvc/?username=YigitCahit&style=flat-square&color=blueviolet" alt="Profile Views" />
-  </a>
-  <br>
   <a href="https://ko-fi.com/A0A31PZ7KZ">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-Fi">
+  </a>
+  <br>
+  <a href="https://github.com/YigitCahit">
+    <img src="https://komarev.com/ghpvc/?username=YigitCahit&style=flat-square&color=blueviolet" alt="Profile Views" />
   </a>
 </div>
